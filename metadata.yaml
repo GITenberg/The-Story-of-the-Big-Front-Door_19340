@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6037'
     url: http://www.gutenberg.org/2009/agents/6037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19340#The-Story-of-the-Big-Front-Door
 gutenberg_issued: '2006-09-20'
 gutenberg_type: Text
 identifiers:
